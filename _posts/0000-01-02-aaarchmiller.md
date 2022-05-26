@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+*The purpose of visualization is insight, not pictures.* ―Ben Shneiderman
 Use the left arrow to go back!
